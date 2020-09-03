@@ -1,5 +1,8 @@
 Scripts for grabbing current playing song, artist, and status from cmus-remote
 
+Requires: cmus-remote, grep, cmus, cut.
+
+I've tested this on OS X, haven't confirmed how it'll run on Linux machines.
 
 get_artist.sh -> grabs the current artist and prints it
 
